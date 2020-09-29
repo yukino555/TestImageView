@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestImageView</string>
+    <string name="text01">あいうえお</string>
 </resources>
